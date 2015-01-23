@@ -1,0 +1,11 @@
+*.pdf
+*.o
+*.swp
+*.elf
+*.gba
+*.zip
+*.jpg
+*.png
+*.zip
+/testing
+test
